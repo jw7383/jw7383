@@ -15,7 +15,7 @@ While I am not working on any projects or studying, I spend time with my husband
 
 ⚡ Fun fact: I have played the cello :violin: for over 15 years
 <br>
-📫 How to reach me: I am actively looking for a data science internship in the summer of 2022. Contact me via email at jw7383@nyu.edu or phone at (551)257-5008
+📫 How to reach me: I am actively looking for a data science internship in the summer of 2022. Contact me via email at jw7383@nyu.edu
 <br>
 😄 Pronouns: He/him
 <!--
