@@ -14,7 +14,9 @@ I have been teaching since freshman year of high school. My first student was a 
 While I am not working on any projects or studying, I spend time with my husband 	:two_men_holding_hands: , hike :hiking_boot: , play strategy games :chess_pawn:, watch TV :tv:, and cook :man_cook:. I truly believe that there is nothing more rewarding in life than constantly learning and improving yourself every single day.
 
 ⚡ Fun fact: I have played the cello :violin: for over 15 years
+<br>
 📫 How to reach me: I am actively looking for a data science internship in the summer of 2022. Contact me via email at jw7383@nyu.edu or phone at (551)257-5008
+<br>
 😄 Pronouns: He/him
 <!--
 **jw7383/jw7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
