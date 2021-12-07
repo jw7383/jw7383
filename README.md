@@ -11,7 +11,7 @@ I am Jason Wang, a Data Scientist based in New York City. I recently started a M
 
 I have been teaching since freshman year of high school. My first student was a 4th grader with a learning disability, and ever since I was able to help him overcome it, I fell in love with teaching and helping others. In my career, while I pursued my studies, I have been everything from a TA, a private tutor, an SAT Instructor, to a classmate who was always willing to help. While I was a senior in university, I took an introductory Data Science class and fell in love with the field. I became an SAT instructor after graduation, but during the pandemic, inspired by that class I took in university, I decided to shift into the Data Science industry. I was accepted to the prestigious program at NYU, where currently my love for analyzing big data, coding, and my willingness to both learn and teach have helped me succeed.
 
-While I am not working on any projects or studying, I spend time with my husband 	:two_men_holding_hands: , hike :hiking_boot: , play strategy games :chess_pawn:, watch TV :tv:, and cook :man_cook:. I truly believe that there is nothing more rewarding in life than constantly learning and improving yourself every single day.
+While I am not working on any projects or studying, I spend time with my husband 	:two_men_holding_hands: , hike :hiking_boot: , play strategy games :chess_pawn:, watch movies :clapper:, and cook :man_cook:. I truly believe that there is nothing more rewarding in life than constantly learning and improving yourself every single day.
 
 ⚡ Fun fact: I have played the cello :violin: for over 15 years
 <br>
